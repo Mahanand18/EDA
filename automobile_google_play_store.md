@@ -1,6 +1,6 @@
 # EDA
  ### i have done EDA(explorarory data analysis)
- ###On various dataset
+ ### On various dataset
 # EDA-on-Automobile-Dataset
 ### Performed EDA on a Automobile Dataset.</li><li>Used Pandas and Numpy for Data Manipulation followed by Matplotlib and Seaborn for Data Visualisation.
 ### starter project just to get acquainted with the libraries mentioned above
